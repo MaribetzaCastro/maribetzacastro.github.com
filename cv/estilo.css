@@ -1,0 +1,45 @@
+body{
+	font-family:Arial;
+	margin-right:0px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;	
+	
+}
+.uno{
+	margin:0;
+	margin-right:auto;
+	margin-left:auto;
+	
+	width:1000px;
+	padding:10px;
+
+}
+.dos{
+	background-color:#15959F;
+	padding:12px;
+	text-align:center;
+	color:#133046;
+	font-weight:700;
+}
+.encabezado{
+	background-color:#F1E4B3;
+	color:#133046;
+	padding:13px;
+
+}
+.alinear{
+	display:inline-block;
+width:500px;
+	text-align:center;
+	font-weight:bold;
+		
+
+}
+.border{
+	padding:0px;
+	list-style:none;
+}
+h3{
+	font-weight:bold;
+}
